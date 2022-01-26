@@ -1,0 +1,10 @@
+{
+    "$schema": "./dist/schema.json",
+    "dependencies": {
+        "testee": {
+            "repository": "itskihaga/testee",
+            "path": "/README.md",
+            "version": "v0.0.1"
+        }
+    }
+}
