@@ -1,5 +1,5 @@
 {
-    "$schema": "./dist/schema.json",
+    "$schema": "./schema.json",
     "dependencies": {
         "testee": {
             "repository": "itskihaga/testee",
